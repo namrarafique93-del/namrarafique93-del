@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there, I am Namra Rafique .
+I am a student learning digital literacy and programming👋
 
 <!--
 **namrarafique93-del/namrarafique93-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
